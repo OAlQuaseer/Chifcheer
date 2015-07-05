@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "Chifcheer",
+    "packageName": "com.ourcompany.chifcheer",
+    "packageFolder": "com/ourcompany/chifcheer",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "bc3f394850dc79c892797e7d985e0400a958fae6"
+  }
+}
