@@ -1,0 +1,29 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "resName",
+            "fieldType": "String",
+            "fieldIsEnum": false,
+            "fieldNameCapitalized": "ResName",
+            "fieldNameUnderscored": "res_name",
+            "fieldInJavaBeanMethod": "ResName",
+            "fieldValidate": true,
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "fieldsContainOwnerManyToMany": false,
+    "fieldsContainOwnerOneToOne": false,
+    "fieldsContainOneToMany": false,
+    "fieldsContainLocalDate": false,
+    "fieldsContainCustomTime": false,
+    "fieldsContainBigDecimal": false,
+    "fieldsContainDateTime": false,
+    "fieldsContainDate": false,
+    "dto": "no",
+    "pagination": "pager",
+    "validation": true
+}

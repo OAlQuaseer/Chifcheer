@@ -1,0 +1,18 @@
+{
+    "chifcheerApp": {
+        "resturant" : {
+            "home": {
+                "title": "Resturants",
+                "createLabel": "Create a new Resturant",
+                "createOrEditLabel": "Create or edit a Resturant"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Resturant {{ id }}?"
+            },
+            "detail": {
+                "title": "Resturant"
+            },
+            "resName": "ResName"
+        }
+    }
+}
